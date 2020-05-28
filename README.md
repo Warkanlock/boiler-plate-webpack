@@ -1,4 +1,4 @@
-# Boiler Plate Webpack ![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FWarkanlock%2Fboiler-plate-webpack)
+# Boiler Plate Webpack ![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FWarkanlock%2Fboiler-plate-webpack) ![Node.js CI](https://github.com/Warkanlock/boiler-plate-webpack/workflows/Node.js%20CI/badge.svg?branch=master)
 A boilerplate for starting a site without rush, tiny size and ideal for interviews development tasks (save time for that interview!)
 
 <p align="center"><img src="https://imgshare.io/images/2020/05/23/default.md.png"/></p>  
